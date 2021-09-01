@@ -1,0 +1,8 @@
+SO ./path_to_the_north_texture 
+NO ./path_to_the_north_texture 
+    F    220,   100,      02
+    C    220,   100,      02
+R 1920 234
+WE ./path_to_the_west_texture
+S ./path_to_the_west_texture
+EA ./path_to_the_west_texture

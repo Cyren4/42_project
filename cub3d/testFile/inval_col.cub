@@ -1,0 +1,15 @@
+          SO      ./path_to_the_north_texture.xpm
+EA ./path_to_the_east_texture.xpm   
+NO      ./path_to_the_north_texture.xpm 
+    F    20,   100,      02
+
+
+    C    320,   100,      02
+             R      1920         234
+
+
+    WE     ./path_to_the_west_texture.xpm
+
+
+   S     ./path_to_the_west_texture.xpm        
+
